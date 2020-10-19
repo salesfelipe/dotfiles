@@ -447,6 +447,24 @@
         "options": {
           "full_name": "vlc"
         }
+      },
+      "postman": {
+        "version": "7.34.0",
+        "options": {
+          "full_name": "postman"
+        }
+      },
+      "telegram": {
+        "version": "7.1,206149",
+        "options": {
+          "full_name": "telegram"
+        }
+      },
+      "notion": {
+        "version": "2.0.8",
+        "options": {
+          "full_name": "notion"
+        }
       }
     },
     "mas": {
